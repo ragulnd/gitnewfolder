@@ -1,1 +1,2 @@
-new project of the git
+New project of the Gitfolder
+
