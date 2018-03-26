@@ -1,9 +1,0 @@
-Work Completed Today:
-Vangaurdproshop (1:00) :
-Created server alias of the production 3 server.
-Tiltas (2:00) :
-Created tables of the development database server.
-Removed unwanted server and cakephp caches of the development server.
-Learned and practiced about the git revert and reset in local machine.
-Learned about the difference between git revert and reset.
-Practiced to point out the host of the domain in local machine
