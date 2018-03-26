@@ -1,0 +1,7 @@
+git checkout -- index.html
+git checkout -- index.html
+git checkout -- index.html
+git checkout -- index.html
+git checkout -- index.html
+git checkout -- index.html
+git checkout -- index.html
