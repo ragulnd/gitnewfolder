@@ -1,0 +1,5 @@
+*/5 * * * * wget --delete-after -q http://dev:IPoljNfn@app.tiltas.co/clients/sendMessagetemplate > /dev/null 2>&1
+*/5 * * * * wget --delete-after -q http://dev:IPoljNfn@app1.tiltas.co/clients/sendMessagetemplate > /dev/null 2>&1
+*/5 * * * * wget --delete-after -q http://dev:IPoljNfn@app2.tiltas.co/clients/sendMessagetemplate > /dev/null 2>&1
+*/5 * * * * wget --delete-after -q http://dev:IPoljNfn@app3.tiltas.co/clients/sendMessagetemplate > /dev/null 2>&1
+*/5 * * * * wget --delete-after -q http://dev:IPoljNfn@app4.tiltas.co/clients/sendMessagetemplate > /dev/null 2>&1
