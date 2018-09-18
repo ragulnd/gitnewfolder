@@ -1,0 +1,1 @@
+git merge --abortgit merge --abortgit merge --abortgit merge --abortgit merge --abort
